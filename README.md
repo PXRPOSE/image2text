@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/prabhakar267/image2text)](https://repl.it/github/prabhakar267/image2text)
 # Image2Text
 [![Build Status](https://api.travis-ci.org/prabhakar267/image2text.svg?branch=master)](https://travis-ci.org/prabhakar267/image2text)
 
